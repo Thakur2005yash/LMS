@@ -1,0 +1,303 @@
+[
+  {
+    "_id": "course-fullstack-1",
+    "title": "Full-Stack Web Development Mastery (React, Node.js & MongoDB)",
+    "subtitle": "From zero to building and deploying scalable production SaaS applications with authentication, REST APIs, and state management.",
+    "description": "Master modern full-stack web engineering from the ground up. In this comprehensive flagship course, you will learn React 19, modern JavaScript ESNext, Node.js, Express.js RESTful API design, database modeling, JWT authentication, video streaming, and production cloud deployment. Packed with hands-on labs, downloadable architecture templates, and realistic real-world projects.",
+    "category": "Development",
+    "difficulty": "Intermediate",
+    "price": 49.99,
+    "rating": 4.9,
+    "ratingCount": 1240,
+    "enrolledCount": 5420,
+    "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop&q=80",
+    "instructorId": "user-instructor-1",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "JavaScript",
+      "Fullstack",
+      "Web Dev"
+    ],
+    "requirements": [
+      "Basic understanding of HTML, CSS, and elementary JavaScript",
+      "A computer with Node.js installed and an open mind to build projects"
+    ],
+    "learningOutcomes": [
+      "Architect robust RESTful APIs with Express and Node.js",
+      "Build responsive, reactive user interfaces with modern React",
+      "Implement bulletproof JWT authentication and role-based security",
+      "Handle file uploads, database queries, and video streaming",
+      "Deploy full-stack applications with production best practices"
+    ],
+    "modules": [
+      {
+        "id": "mod-1",
+        "title": "Module 1: Foundations of Full-Stack Architecture",
+        "lessons": [
+          {
+            "id": "les-1-1",
+            "title": "Welcome & Course Roadmap Overview",
+            "duration": 340,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "preview": true,
+            "description": "Get an overview of the curriculum, technology stack choices, and how the learning platform works.",
+            "resources": [
+              {
+                "name": "Course Syllabus PDF",
+                "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+              },
+              {
+                "name": "GitHub Starter Template",
+                "url": "https://github.com"
+              }
+            ]
+          },
+          {
+            "id": "les-1-2",
+            "title": "Modern JavaScript & React 19 State Mental Model",
+            "duration": 520,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "preview": true,
+            "description": "Deep dive into component lifecycles, custom hooks, and immutability for performant UI rendering.",
+            "resources": [
+              {
+                "name": "State Management Cheatsheet",
+                "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mod-2",
+        "title": "Module 2: Backend APIs, Express & JWT Security",
+        "lessons": [
+          {
+            "id": "les-2-1",
+            "title": "Designing Clean RESTful Endpoints with Express",
+            "duration": 610,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "preview": false,
+            "description": "Learn the architectural principles of HTTP methods, status codes, controller modularization, and error handling.",
+            "resources": [
+              {
+                "name": "REST API Best Practices Guide",
+                "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+              }
+            ]
+          },
+          {
+            "id": "les-2-2",
+            "title": "Authentication Deep Dive: Passwords, Bcrypt & JWT Tokens",
+            "duration": 480,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "preview": false,
+            "description": "Step-by-step implementation of password hashing with bcrypt and signed JWT bearer tokens for secure sessions.",
+            "resources": [
+              {
+                "name": "JWT Security Checklist",
+                "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "course-fullstack-1",
+    "createdAt": "2026-10-02T07:47:44.710Z",
+    "updatedAt": "2026-10-02T07:47:44.710Z"
+  },
+  {
+    "_id": "course-ai-python-2",
+    "title": "Python for AI, Machine Learning & Deep Neural Networks",
+    "subtitle": "Learn data analysis with NumPy & Pandas, build predictive machine learning models with Scikit-Learn, and train neural networks with PyTorch.",
+    "description": "Artificial intelligence is reshaping every industry. This hands-on masterclass equips you with the statistical intuition, mathematics, and Python programming skills required to build, evaluate, and deploy state-of-the-art machine learning models.",
+    "category": "Data Science",
+    "difficulty": "All Levels",
+    "price": 39.99,
+    "rating": 4.8,
+    "ratingCount": 890,
+    "enrolledCount": 3820,
+    "thumbnail": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&auto=format&fit=crop&q=80",
+    "instructorId": "user-instructor-1",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "tags": [
+      "Python",
+      "AI",
+      "Machine Learning",
+      "Data Science",
+      "PyTorch"
+    ],
+    "requirements": [
+      "No prior machine learning experience required",
+      "Basic mathematics familiarity"
+    ],
+    "learningOutcomes": [
+      "Master NumPy, Pandas, and Matplotlib data pipelines",
+      "Train supervised and unsupervised machine learning algorithms",
+      "Build convolutional and deep neural networks in PyTorch",
+      "Evaluate models using precision, recall, ROC-AUC, and cross-validation"
+    ],
+    "modules": [
+      {
+        "id": "mod-ai-1",
+        "title": "Module 1: Python Data Science Ecosystem",
+        "lessons": [
+          {
+            "id": "les-ai-1-1",
+            "title": "Vectorized Computing with NumPy Arrays",
+            "duration": 420,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "preview": true,
+            "description": "Understand array broadcasting, matrix multiplications, and high-speed numerical computations.",
+            "resources": [
+              {
+                "name": "NumPy Cheat Sheet",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "id": "les-ai-1-2",
+            "title": "Data Wrangling and Cleaning with Pandas",
+            "duration": 540,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "preview": false,
+            "description": "Handle missing values, aggregate grouping, and transform messy real-world datasets.",
+            "resources": [
+              {
+                "name": "Sample Datasets CSV",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "course-ai-python-2",
+    "createdAt": "2026-10-02T07:47:44.711Z",
+    "updatedAt": "2026-10-02T07:47:44.711Z"
+  },
+  {
+    "_id": "course-uiux-3",
+    "title": "Modern UI/UX Design Systems: Figma to Interactive Prototypes",
+    "subtitle": "Craft jaw-dropping user interfaces, master component design tokens, auto-layout, micro-animations, and UX research.",
+    "description": "Transform your design workflow. Learn how industry leaders build scalable design systems in Figma with auto-layout, variant states, interactive micro-animations, accessible color contrast tokens, and design-to-code handoffs.",
+    "category": "Design",
+    "difficulty": "Beginner",
+    "price": 0,
+    "rating": 4.9,
+    "ratingCount": 2100,
+    "enrolledCount": 8901,
+    "thumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&auto=format&fit=crop&q=80",
+    "instructorId": "user-instructor-1",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "tags": [
+      "UI/UX",
+      "Figma",
+      "Design Systems",
+      "Web Design",
+      "Prototyping"
+    ],
+    "requirements": [
+      "Figma free account",
+      "Passion for beautiful visual design"
+    ],
+    "learningOutcomes": [
+      "Master Figma Auto Layout 5.0 and component variants",
+      "Build scalable multi-brand design tokens for light and dark modes",
+      "Design accessible, high-converting checkout and SaaS landing pages",
+      "Conduct practical usability testing and wireframing"
+    ],
+    "modules": [
+      {
+        "id": "mod-des-1",
+        "title": "Module 1: Figma Fundamentals & Auto Layout",
+        "lessons": [
+          {
+            "id": "les-des-1-1",
+            "title": "Figma Canvas & Auto Layout Mastery",
+            "duration": 380,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "preview": true,
+            "description": "Create responsive UI components that seamlessly adapt to mobile, tablet, and widescreen layouts.",
+            "resources": [
+              {
+                "name": "Figma Exercise File (.fig)",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "course-uiux-3",
+    "createdAt": "2026-10-02T07:47:44.712Z",
+    "updatedAt": "2026-10-02T08:06:12.828Z"
+  },
+  {
+    "_id": "course-devops-4",
+    "title": "DevOps & Cloud Engineering: Docker, Kubernetes & CI/CD Pipelines",
+    "subtitle": "Containerize microservices, automate build pipelines with GitHub Actions, orchestrate pods in Kubernetes, and deploy to AWS.",
+    "description": "Learn modern DevOps practices from scratch. Containerize backend APIs with Docker, write multi-stage Dockerfiles, deploy Kubernetes clusters, configure Ingress routing, set up automated CI/CD pipelines, and monitor uptime.",
+    "category": "DevOps",
+    "difficulty": "Advanced",
+    "price": 54.99,
+    "rating": 4.7,
+    "ratingCount": 430,
+    "enrolledCount": 1980,
+    "thumbnail": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&auto=format&fit=crop&q=80",
+    "instructorId": "user-instructor-1",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "tags": [
+      "DevOps",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Cloud"
+    ],
+    "requirements": [
+      "Command-line basics",
+      "Basic Linux and Web development familiarity"
+    ],
+    "learningOutcomes": [
+      "Build lightweight multi-stage Docker containers",
+      "Deploy and scale resilient Kubernetes deployments and services",
+      "Create automated test and deploy GitHub Actions workflows",
+      "Manage cloud infrastructure with modern GitOps standards"
+    ],
+    "modules": [
+      {
+        "id": "mod-devops-1",
+        "title": "Module 1: Docker Containers from Scratch",
+        "lessons": [
+          {
+            "id": "les-d-1-1",
+            "title": "Containerization Concepts & Docker CLI",
+            "duration": 490,
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+            "preview": true,
+            "description": "Why containers revolutionized software shipping and how to build your first custom Docker image.",
+            "resources": [
+              {
+                "name": "Dockerfile Cheat Sheet",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "course-devops-4",
+    "createdAt": "2026-10-02T07:47:44.713Z",
+    "updatedAt": "2026-10-02T07:47:44.713Z"
+  }
+]

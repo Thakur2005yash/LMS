@@ -1,0 +1,15 @@
+{
+  "name": "online-learning-platform",
+  "version": "1.0.0",
+  "description": "Full-Stack Online Learning Platform (LMS) - Advanced",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "start": "npm --prefix server start",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": ["lms", "online-learning", "react", "express", "fullstack"],
+  "author": "LMS Platform Team",
+  "license": "MIT"
+}

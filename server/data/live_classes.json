@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "live-1",
+    "title": "Live Workshop: Building Real-Time Full-Stack Apps with WebSockets & React",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "instructorHeadline": "Senior Principal Engineer & Author",
+    "scheduledAt": "2026-10-03T07:47:44.720Z",
+    "durationMinutes": 90,
+    "description": "Join Dr. Sarah Mitchell for an interactive coding session building a real-time collaborative whiteboard and chat room live on stream.",
+    "category": "Development",
+    "level": "Intermediate",
+    "registeredCount": 340,
+    "registeredUsers": [
+      "user-student-1"
+    ],
+    "streamUrl": "https://youtube.com",
+    "status": "upcoming",
+    "id": "live-1",
+    "createdAt": "2026-10-02T07:47:44.721Z",
+    "updatedAt": "2026-10-02T07:47:44.721Z"
+  },
+  {
+    "_id": "live-2",
+    "title": "System Design Q&A: Preparing for Senior Engineering Interviews",
+    "instructorName": "Dr. Sarah Mitchell",
+    "instructorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "instructorHeadline": "Senior Principal Engineer & Author",
+    "scheduledAt": "2026-10-07T07:47:44.720Z",
+    "durationMinutes": 60,
+    "description": "Ask anything about distributed caching, rate limiters, message queues, and how to ace system design interviews.",
+    "category": "Career & Architecture",
+    "level": "Advanced",
+    "registeredCount": 520,
+    "registeredUsers": [],
+    "streamUrl": "https://youtube.com",
+    "status": "upcoming",
+    "id": "live-2",
+    "createdAt": "2026-10-02T07:47:44.721Z",
+    "updatedAt": "2026-10-02T07:47:44.721Z"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "user-student-1",
+    "name": "Alex Johnson",
+    "email": "student@learnhub.com",
+    "password": "$2a$10$Gwjy.p9g6qeOxEe9mRYx6Og1ibxCDqfvZtfpbmki.yijv7XKCjMay",
+    "role": "student",
+    "headline": "Aspiring Full-Stack Software Engineer",
+    "bio": "Passionate about React, modern JavaScript, and building accessible web applications.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+    "points": 430,
+    "badges": [
+      "New Explorer",
+      "Quiz Ace",
+      "Fast Learner"
+    ],
+    "id": "user-student-1",
+    "createdAt": "2026-10-02T07:47:44.706Z",
+    "updatedAt": "2026-10-02T08:01:36.075Z"
+  },
+  {
+    "_id": "user-instructor-1",
+    "name": "Dr. Sarah Mitchell",
+    "email": "instructor@learnhub.com",
+    "password": "$2a$10$Gwjy.p9g6qeOxEe9mRYx6OsxgDZJd4Ob9n.cGgV2yjmO214pjr/mO",
+    "role": "instructor",
+    "headline": "Senior Principal Engineer & Author",
+    "bio": "12+ years of engineering experience at Google and Microsoft. Trained over 150,000 developers worldwide.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+    "points": 1250,
+    "badges": [
+      "Top Instructor",
+      "Mentor of the Year"
+    ],
+    "id": "user-instructor-1",
+    "createdAt": "2026-10-02T07:47:44.708Z",
+    "updatedAt": "2026-10-02T07:47:44.708Z"
+  },
+  {
+    "_id": "user-admin-1",
+    "name": "Marcus Vance",
+    "email": "admin@learnhub.com",
+    "password": "$2a$10$Gwjy.p9g6qeOxEe9mRYx6OtERXgAb.xVlk7gAb9fsheO6lv7CFBFm",
+    "role": "admin",
+    "headline": "Platform Operations Lead",
+    "bio": "Overseeing global platform infrastructure and content excellence.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+    "points": 9999,
+    "badges": [
+      "Platform Admin"
+    ],
+    "id": "user-admin-1",
+    "createdAt": "2026-10-02T07:47:44.709Z",
+    "updatedAt": "2026-10-02T07:47:44.709Z"
+  },
+  {
+    "name": "Yashveer Singh",
+    "email": "yashveer@learnhub.com",
+    "password": "$2a$10$png5QObwELcgtpLXDCgOgeOc.2G8WbxQ.PCgdKJw4njjG8Gbpxovu",
+    "role": "student",
+    "bio": "",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Yashveer%20Singh",
+    "headline": "Curious Learner",
+    "enrolledCourses": [
+      "course-uiux-3"
+    ],
+    "createdCourses": [],
+    "points": 100,
+    "badges": [
+      "New Explorer"
+    ],
+    "_id": "90644daf39251ab03db516af",
+    "id": "90644daf39251ab03db516af",
+    "createdAt": "2026-10-02T08:05:24.163Z",
+    "updatedAt": "2026-10-02T08:06:12.830Z"
+  }
+]

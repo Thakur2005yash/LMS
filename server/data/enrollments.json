@@ -1,0 +1,126 @@
+[
+  {
+    "_id": "enr-alex-course1",
+    "userId": "user-student-1",
+    "courseId": "course-fullstack-1",
+    "courseTitle": "Full-Stack Web Development Mastery (React, Node.js & MongoDB)",
+    "courseThumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&auto=format&fit=crop&q=80",
+    "enrolledAt": "2026-09-29T07:47:44.722Z",
+    "lastAccessedAt": "2026-10-02T08:01:36.064Z",
+    "progress": 50,
+    "completedLessons": [
+      "les-1-1",
+      "les-1-2"
+    ],
+    "currentLessonId": "les-2-1",
+    "lessonProgress": {
+      "les-1-1": {
+        "lastWatchedTime": 340,
+        "duration": 340,
+        "completed": true
+      },
+      "les-1-2": {
+        "lastWatchedTime": 520,
+        "duration": 520,
+        "completed": true
+      },
+      "les-2-1": {
+        "lastWatchedTime": 300,
+        "duration": 610,
+        "completed": false
+      }
+    },
+    "quizScores": {
+      "quiz-fullstack-1": {
+        "score": 100,
+        "passed": true,
+        "correctCount": 5,
+        "totalQuestions": 5,
+        "attemptedAt": "2026-10-02T08:01:36.074Z"
+      }
+    },
+    "isCompleted": false,
+    "completedAt": null,
+    "certificateId": null,
+    "payment": {
+      "amount": 49.99,
+      "currency": "USD",
+      "status": "completed",
+      "transactionId": "TXN-INIT-DEMO-01",
+      "method": "credit_card"
+    },
+    "id": "enr-alex-course1",
+    "createdAt": "2026-10-02T07:47:44.722Z",
+    "updatedAt": "2026-10-02T08:01:36.074Z"
+  },
+  {
+    "_id": "enr-alex-course3",
+    "userId": "user-student-1",
+    "courseId": "course-uiux-3",
+    "courseTitle": "Modern UI/UX Design Systems: Figma to Interactive Prototypes",
+    "courseThumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&auto=format&fit=crop&q=80",
+    "enrolledAt": "2026-09-25T07:47:44.722Z",
+    "lastAccessedAt": "2026-10-02T07:47:44.722Z",
+    "progress": 100,
+    "completedLessons": [
+      "les-des-1-1"
+    ],
+    "currentLessonId": "les-des-1-1",
+    "lessonProgress": {
+      "les-des-1-1": {
+        "lastWatchedTime": 380,
+        "duration": 380,
+        "completed": true
+      }
+    },
+    "quizScores": {
+      "quiz-uiux-3": {
+        "score": 100,
+        "passed": true,
+        "correctCount": 2,
+        "totalQuestions": 2,
+        "attemptedAt": "2026-09-30T07:47:44.722Z"
+      }
+    },
+    "isCompleted": true,
+    "completedAt": "2026-09-30T07:47:44.722Z",
+    "certificateId": "LMS-CERT-A89F2C10",
+    "payment": {
+      "amount": 0,
+      "currency": "USD",
+      "status": "completed",
+      "transactionId": "TXN-FREE-01",
+      "method": "free_enroll"
+    },
+    "id": "enr-alex-course3",
+    "createdAt": "2026-10-02T07:47:44.722Z",
+    "updatedAt": "2026-10-02T07:47:44.722Z"
+  },
+  {
+    "userId": "90644daf39251ab03db516af",
+    "courseId": "course-uiux-3",
+    "courseTitle": "Modern UI/UX Design Systems: Figma to Interactive Prototypes",
+    "courseThumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&auto=format&fit=crop&q=80",
+    "enrolledAt": "2026-10-02T08:06:12.825Z",
+    "lastAccessedAt": "2026-10-02T08:06:12.826Z",
+    "progress": 0,
+    "completedLessons": [],
+    "currentLessonId": "les-des-1-1",
+    "lessonProgress": {},
+    "quizScores": {},
+    "isCompleted": false,
+    "completedAt": null,
+    "certificateId": null,
+    "payment": {
+      "amount": 0,
+      "currency": "USD",
+      "status": "completed",
+      "transactionId": "TXN-1790928372826-3342",
+      "method": "credit_card"
+    },
+    "_id": "c426cbb63911cc9324d11c22",
+    "id": "c426cbb63911cc9324d11c22",
+    "createdAt": "2026-10-02T08:06:12.826Z",
+    "updatedAt": "2026-10-02T08:06:12.826Z"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "certificateId": "LMS-CERT-A89F2C10",
+    "userId": "user-student-1",
+    "userName": "Alex Johnson",
+    "userEmail": "student@learnhub.com",
+    "courseId": "course-uiux-3",
+    "courseTitle": "Modern UI/UX Design Systems: Figma to Interactive Prototypes",
+    "instructorName": "Dr. Sarah Mitchell",
+    "category": "Design",
+    "issueDate": "2026-09-30T07:47:44.723Z",
+    "grade": "Excellence (100%)",
+    "verifyUrl": "/verify-certificate/LMS-CERT-A89F2C10",
+    "_id": "4c91b28964f262f6c788ab10",
+    "id": "4c91b28964f262f6c788ab10",
+    "createdAt": "2026-10-02T07:47:44.723Z",
+    "updatedAt": "2026-10-02T07:47:44.723Z"
+  }
+]

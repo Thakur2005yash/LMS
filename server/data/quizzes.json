@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "quiz-fullstack-1",
+    "courseId": "course-fullstack-1",
+    "title": "Full-Stack Web Development Certification Quiz",
+    "description": "Demonstrate your understanding of React state mechanics, Express middleware, and JWT security to earn your badge.",
+    "passingScore": 70,
+    "timeLimitMinutes": 15,
+    "questions": [
+      {
+        "id": "q-1",
+        "questionText": "Which React hook is primarily used for managing local state inside a functional component?",
+        "type": "multiple_choice",
+        "options": [
+          "useEffect",
+          "useState",
+          "useContext",
+          "useMemo"
+        ],
+        "correctAnswer": "useState",
+        "explanation": "useState declares a state variable that preserves values across re-renders."
+      },
+      {
+        "id": "q-2",
+        "questionText": "In Express.js, middleware functions have access to the request object (req), response object (res), and the next middleware function (next).",
+        "type": "true_false",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "True! Middleware functions can execute code, make changes to req/res, and call next() to pass control."
+      },
+      {
+        "id": "q-3",
+        "questionText": "What HTTP status code is universally used to indicate a successful resource creation?",
+        "type": "multiple_choice",
+        "options": [
+          "200 OK",
+          "201 Created",
+          "204 No Content",
+          "301 Moved Permanently"
+        ],
+        "correctAnswer": "201 Created",
+        "explanation": "HTTP 201 Created signifies that the request succeeded and resulted in the creation of a new resource."
+      },
+      {
+        "id": "q-4",
+        "questionText": "JSON Web Tokens (JWT) consist of three parts separated by dots: header, payload, and ________.",
+        "type": "fill_in_blank",
+        "options": [],
+        "correctAnswer": "signature",
+        "explanation": "A JWT consists of Header.Payload.Signature encoded in Base64Url."
+      },
+      {
+        "id": "q-5",
+        "questionText": "Bcrypt uses salt rounds to protect stored passwords against rainbow table attacks and brute force cracking.",
+        "type": "true_false",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Bcrypt automatically generates a unique random cryptographic salt for each password hash."
+      }
+    ],
+    "id": "quiz-fullstack-1",
+    "createdAt": "2026-10-02T07:47:44.714Z",
+    "updatedAt": "2026-10-02T07:47:44.714Z"
+  },
+  {
+    "_id": "quiz-uiux-3",
+    "courseId": "course-uiux-3",
+    "title": "UI/UX Design Systems Mastery Quiz",
+    "description": "Verify your design system architecture and Figma Auto Layout competency.",
+    "passingScore": 70,
+    "timeLimitMinutes": 10,
+    "questions": [
+      {
+        "id": "qu-1",
+        "questionText": "In Figma, what feature dynamically adjusts component padding and direction when child layers change?",
+        "type": "multiple_choice",
+        "options": [
+          "Smart Animate",
+          "Auto Layout",
+          "Boolean Operation",
+          "Layer Mask"
+        ],
+        "correctAnswer": "Auto Layout",
+        "explanation": "Auto Layout allows buttons, lists, and cards to dynamically stretch and wrap based on their content."
+      },
+      {
+        "id": "qu-2",
+        "questionText": "WCAG AAA requires a minimum color contrast ratio of 7:1 for normal body text.",
+        "type": "true_false",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "True! WCAG 2.1 AAA level requires 7:1 contrast for normal text and 4.5:1 for large text."
+      }
+    ],
+    "id": "quiz-uiux-3",
+    "createdAt": "2026-10-02T07:47:44.715Z",
+    "updatedAt": "2026-10-02T07:47:44.715Z"
+  }
+]

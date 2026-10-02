@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "disc-1",
+    "courseId": "course-fullstack-1",
+    "lessonId": "les-1-2",
+    "lessonTitle": "Modern JavaScript & React 19 State Mental Model",
+    "userId": "user-student-1",
+    "userName": "Alex Johnson",
+    "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+    "userRole": "student",
+    "title": "When should we prefer useReducer over useState for complex forms?",
+    "message": "I am building a multi-step checkout form with several interdependent fields. Is useReducer recommended here over multiple useState hooks?",
+    "likes": 8,
+    "likedBy": [],
+    "replies": [
+      {
+        "id": "rep-1",
+        "userId": "user-instructor-1",
+        "userName": "Dr. Sarah Mitchell",
+        "userAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+        "userRole": "instructor",
+        "message": "Great question Alex! Yes, when next state depends on previous state across multiple properties, useReducer provides a clean centralized state transition pattern and avoids race conditions.",
+        "createdAt": "2026-10-02T07:47:44.720Z"
+      }
+    ],
+    "id": "disc-1",
+    "createdAt": "2026-10-02T07:47:44.720Z",
+    "updatedAt": "2026-10-02T07:47:44.720Z"
+  }
+]

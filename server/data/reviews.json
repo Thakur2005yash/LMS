@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "rev-1",
+    "courseId": "course-fullstack-1",
+    "userId": "user-ext-1",
+    "userName": "Samantha Lee",
+    "userAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=120&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "comment": "Hands down the best full-stack course on the web! The explanations on JWT auth and video streaming were crystal clear.",
+    "likes": 34,
+    "id": "rev-1",
+    "createdAt": "2026-10-02T07:47:44.716Z",
+    "updatedAt": "2026-10-02T07:47:44.716Z"
+  },
+  {
+    "_id": "rev-2",
+    "courseId": "course-fullstack-1",
+    "userId": "user-ext-2",
+    "userName": "David Miller",
+    "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "comment": "The project structure mirrors exactly what my team uses in production. The downloadable certificate verified immediately on my resume!",
+    "likes": 19,
+    "id": "rev-2",
+    "createdAt": "2026-10-02T07:47:44.717Z",
+    "updatedAt": "2026-10-02T07:47:44.717Z"
+  },
+  {
+    "_id": "rev-3",
+    "courseId": "course-uiux-3",
+    "userId": "user-ext-3",
+    "userName": "Elena Rostova",
+    "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=120&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "comment": "Incredible that this course is free. The Auto Layout tricks alone saved me hours every week in Figma.",
+    "likes": 42,
+    "id": "rev-3",
+    "createdAt": "2026-10-02T07:47:44.718Z",
+    "updatedAt": "2026-10-02T07:47:44.718Z"
+  }
+]
